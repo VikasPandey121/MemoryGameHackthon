@@ -1,0 +1,3 @@
+# MemoryGameHackthon
+I made this app in the hackthon competition of college 2018 and got third positon in the same. In this app we used Intend class to compare the two buttons when the button's colour matches than both the buttons disabled and if not then we open the same Activity. There is some problem with the blue buttons and if we make a wrong choice in the mean while of matching the buttons then it starts from the very begning, so we need to remember all the colour at the same time to finish this game.
+Remember all the colours with there position because if we make a wrong match somehow in the game then we have to restart from the very begning.
