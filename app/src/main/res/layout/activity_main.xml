@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+
+
+   <TextView
+       android:id="@+id/textView"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="Disk Defragmenter is a tool that rearranges the data on your volume and reunites fragmented data so your computer can run more efficiently. The Defrag.exe command is used to defragment hard disks. Disk defragmentation rearranges file."
+       android:textSize="35dp"
+       android:textColor="@android:color/black"
+       android:background="@android:color/holo_green_dark"/>
+
+   <Button
+       android:id="@+id/btnone"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="Click here to play game" />
+
+
+</LinearLayout>
